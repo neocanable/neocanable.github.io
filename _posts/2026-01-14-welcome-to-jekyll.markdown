@@ -1,29 +1,11 @@
----
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2026-01-14 12:11:32 +0800
-categories: jekyll update
----
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+这个blog是garlic项目的更新和状态.
 
-Jekyll requires blog post files to be named according to the following format:
+garlic java/android的部分已经写完好久了。
 
-`YEAR-MONTH-DAY-title.MARKUP`
+现在的garlic支持apk/dex/class/jar/war等等文件的反编译，他现在是一个cli的工具，我没有开发gui的能力，所以现在都在command line下面跑。
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+写完java的部分已经很久了，只有一点点更新，修了几个bug，还有非常多要修。
 
-Jekyll also offers powerful support for code snippets:
+没有更新是因为我找到了新玩具，也是补充android逆向最后一块拼图，arm native部分的逆向和反编译。
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+garlic的下一个版本的名字我已经想好了，叫rosemary。
