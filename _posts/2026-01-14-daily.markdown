@@ -1,3 +1,5 @@
+
+
 这个blog是garlic项目的更新和状态.
 
 garlic java/android的部分已经写完好久了。
