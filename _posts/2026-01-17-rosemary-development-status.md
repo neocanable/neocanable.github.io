@@ -1,6 +1,3 @@
-## Rosemary: development status
-
----
 
 The final piece of the Android decompilation/static analysis puzzle is native reverse engineering. After completing the decompilation of the [Java/dex](https://github.com/neocanable/garlic) parts, I decided to challenge myself with the decompilation and static analysis of the native parts, and I gave this native part a different name: rosemary.
 
