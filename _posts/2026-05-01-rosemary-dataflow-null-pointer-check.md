@@ -290,6 +290,6 @@ Then, I continued tracing its assembly code and discovered the final problem: Th
 
 #### 3. Solution: 
 
-When using a lifter, the basic semantics of conditional statements such as cbz/cbnz need to be expanded. This allows for the direct pruning of many unreachable branches during control flow backtracking. 
+During the lifter, the basic semantics of conditional statements such as cbz/cbnz need to be expanded. This allows for the direct pruning of many unreachable branches during control flow backtracking. 
 
 This is called null pointer check.
